@@ -2,6 +2,49 @@
 CHANGELOG
 =========
 
+1.7.25
+======
+
+* api-change:``sqs``: Update sqs client to latest version
+* bugfix:serializer: Update query serializer to automatically include the application/x-www-form-urlencoded; charset=utf-8 Content-Type header.
+
+
+1.7.24
+======
+
+* api-change:``redshift``: Update redshift client to latest version
+
+
+1.7.23
+======
+
+* api-change:``route53domains``: Update route53domains client to latest version
+* api-change:``kinesisanalytics``: Update kinesisanalytics client to latest version
+
+
+1.7.22
+======
+
+* api-change:``ssm``: Update ssm client to latest version
+* api-change:``ec2``: Update ec2 client to latest version
+
+
+1.7.21
+======
+
+* api-change:``cloudhsm``: Update cloudhsm client to latest version
+
+
+1.7.20
+======
+
+* api-change:``organizations``: Update organizations client to latest version
+* api-change:``route53``: Update route53 client to latest version
+* api-change:``codebuild``: Update codebuild client to latest version
+* api-change:``mturk``: Update mturk client to latest version
+* api-change:``appstream``: Update appstream client to latest version
+
+
 1.7.19
 ======
 
